@@ -1,0 +1,7158 @@
+﻿
+DateTime:  2024-11-07 01:11:53,428 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 01:11:53,433 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 01:11:53,958 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 01:11:55,965 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 01:11:57,469 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 01:11:58,971 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 01:12:00,474 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 01:12:00,976 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 01:12:01,978 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 01:12:03,480 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 01:12:04,311 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 01:12:04,311 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 01:12:04,603 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 01:12:04,912 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 01:12:05,223 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 01:12:05,539 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 01:12:05,850 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 01:12:06,161 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 01:12:06,474 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 01:12:06,474 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 01:12:06,790 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:07,100 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:07,413 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:07,724 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:08,041 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:08,349 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:08,662 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:08,974 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:09,289 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:09,600 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:09,913 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:10,223 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:10,537 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:10,848 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:11,162 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 01:12:11,162 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 01:12:11,477 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3144743, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:11,786 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.623448, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:12,101 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9388794, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:12,414 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2515186, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:12,726 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5636665, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:13,036 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8737196, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:13,350 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1872223, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:13,662 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.4991936, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:13,976 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8136814, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:14,286 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1239763, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:14,599 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.4370761, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:14,911 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7482177, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:15,223 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0602345, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:15,538 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3752409, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:15,848 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6859338, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:16,164 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.0017645, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:16,477 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3145251, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:16,788 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6259299, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:17,099 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.936209, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:17,413 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2507935, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:17,725 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5622663, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:18,039 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8763798, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:18,351 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1887053, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:18,662 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.499434, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:18,974 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8113845, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:19,288 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1258073, 設定值 = 8
+
+DateTime:  2024-11-07 01:12:19,289 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1267903, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 01:12:19,603 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 01:12:19,912 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 01:12:20,225 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 01:12:20,536 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 01:12:20,850 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 01:12:21,165 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 01:12:21,475 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 01:12:21,788 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 01:12:22,101 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 01:12:22,412 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 01:12:22,724 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 01:12:23,039 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 01:12:23,350 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 01:12:23,664 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 01:12:23,975 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 01:12:24,286 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 01:12:24,600 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 01:12:24,913 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 01:12:25,225 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 01:12:25,537 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 01:12:25,849 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 01:12:26,163 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 01:12:26,163 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 01:12:26,475 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 01:12:26,516 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 01:12:27,018 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 01:13:45,215 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 01:13:45,220 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 01:13:45,725 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 01:13:49,732 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 01:13:52,739 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 01:13:53,240 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 01:13:55,243 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 01:13:55,744 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 01:13:56,747 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 01:13:58,251 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 01:13:59,078 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 01:13:59,078 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 01:13:59,383 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 01:13:59,692 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 01:14:00,004 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 01:14:00,318 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 01:14:00,629 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 01:14:00,943 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 01:14:01,255 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 01:14:01,255 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 01:14:01,571 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:01,881 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:02,191 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:02,506 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:02,817 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:03,131 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:03,444 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:03,753 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:04,068 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:04,380 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:04,693 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:05,005 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:05,318 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:05,630 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:05,945 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 01:14:05,946 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 01:14:06,259 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.313056, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:06,565 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.619245, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:06,880 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9338434, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:07,190 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2440467, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:07,507 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5612096, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:07,816 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8698731, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:08,129 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1827393, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:08,443 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.4968634, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:08,753 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8066713, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:09,066 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1202052, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:09,381 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.4344548, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:09,690 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7439965, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:10,005 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0591934, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:10,321 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3746538, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:10,631 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.684752, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:10,941 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.9945216, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:11,257 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.31109, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:11,568 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6222017, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:11,879 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9328734, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:12,192 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2460194, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:12,506 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5600434, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:12,816 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8698694, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:13,133 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1864039, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:13,440 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.4941511, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:13,757 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8110863, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:14,067 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1204668, 設定值 = 8
+
+DateTime:  2024-11-07 01:14:14,067 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1204668, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 01:14:14,381 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 01:14:14,691 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 01:14:15,007 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 01:14:15,320 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 01:14:15,630 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 01:14:15,944 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 01:14:16,257 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 01:14:16,566 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 01:14:16,880 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 01:14:17,192 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 01:14:17,503 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 01:14:17,817 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 01:14:18,130 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 01:14:18,444 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 01:14:18,755 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 01:14:19,069 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 01:14:19,381 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 01:14:19,691 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 01:14:19,691 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 01:14:20,006 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 01:14:20,283 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 01:14:20,785 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 01:35:48,964 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 01:35:48,970 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 01:35:49,474 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 01:35:50,477 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 01:35:51,479 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 01:35:52,480 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 01:35:53,481 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 01:35:53,982 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 01:35:54,482 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 01:35:55,484 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 01:35:56,294 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 01:35:56,294 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 01:35:56,598 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 01:35:56,911 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 01:35:57,222 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 01:35:57,534 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 01:35:57,850 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 01:35:58,160 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 01:35:58,475 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 01:35:58,475 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 01:35:58,785 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 01:35:59,101 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 01:35:59,410 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 01:35:59,725 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:00,037 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:00,349 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:00,661 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:00,973 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:01,287 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:01,597 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:01,914 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:02,224 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:02,534 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:02,848 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:03,159 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 01:36:03,159 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 01:36:03,474 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3147773, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:03,785 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.6266372, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:04,099 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9401006, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:04,411 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2526857, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:04,722 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5629884, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:05,037 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8777939, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:05,347 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1885774, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:05,661 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.5017322, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:05,973 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8140133, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:06,286 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1268926, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:06,598 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.438721, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:06,909 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7501317, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:07,224 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.06487, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:07,537 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3784464, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:07,847 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6884166, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:08,161 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.0021796, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:08,473 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3141724, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:08,787 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6278902, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:09,099 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9405293, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:09,410 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2512912, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:09,725 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5662821, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:10,038 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.879039, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:10,348 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1890775, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:10,661 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.501851, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:10,975 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8161648, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:11,284 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1254767, 設定值 = 8
+
+DateTime:  2024-11-07 01:36:11,284 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1254767, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 01:36:11,600 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 13
+
+DateTime:  2024-11-07 01:36:11,912 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 13
+
+DateTime:  2024-11-07 01:36:12,222 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 14
+
+DateTime:  2024-11-07 01:36:12,537 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 13
+
+DateTime:  2024-11-07 01:36:12,848 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 13
+
+DateTime:  2024-11-07 01:36:13,159 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 01:36:13,472 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 01:36:13,784 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 01:36:14,098 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 01:36:14,409 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 01:36:14,727 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 01:36:15,037 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 01:36:15,347 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 01:36:15,659 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 01:36:15,973 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 01:36:16,285 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 01:36:16,596 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 01:36:16,909 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 01:36:17,225 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 01:36:17,537 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 01:36:17,849 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 01:36:18,162 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 01:36:18,473 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 01:36:18,786 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 01:36:19,101 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 01:36:19,101 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 01:36:19,410 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 01:36:19,510 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 01:36:20,011 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:13:06,656 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 08:13:06,665 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 08:13:07,169 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 08:13:08,674 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:13:09,675 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 08:13:11,176 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 08:13:12,678 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 08:13:13,179 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 08:13:14,681 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 08:13:16,684 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 08:13:17,500 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  label_Press, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 08:13:17,500 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 08:13:17,806 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:13:18,114 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:13:18,431 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:13:18,738 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:14:35,411 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 08:14:35,416 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 08:14:35,921 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 08:14:36,925 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:14:38,427 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 08:14:39,930 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 08:14:40,932 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 08:14:41,432 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 08:14:42,434 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 08:14:43,937 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 08:14:44,747 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  label_Press, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 08:14:44,747 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 08:14:45,050 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:14:45,366 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:14:45,677 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 08:14:45,991 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:14:46,303 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:14:46,614 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:14:46,928 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:14:46,931 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 08:14:47,242 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:47,552 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:47,866 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:48,178 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:48,490 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:48,801 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:49,115 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:49,427 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:49,742 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:50,054 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:50,364 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:50,678 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:50,990 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:51,303 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:51,616 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 08:14:51,616 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 08:14:51,931 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3154598, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:52,240 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.6247732, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:52,554 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9388051, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:52,866 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2501387, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:53,176 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5604293, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:53,488 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8719409, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:53,804 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1888196, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:54,116 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.5006607, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:54,427 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8110494, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:54,741 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1251652, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:55,053 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.4371381, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:55,365 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7493518, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:55,677 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0616191, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:55,988 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3719248, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:56,302 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.685057, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:56,613 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.9969702, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:56,927 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3114254, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:57,238 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6225961, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:57,552 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.936801, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:57,862 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2465912, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:58,180 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5640732, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:58,492 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.87655, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:58,804 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1885098, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:59,114 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.4985049, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:59,427 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.810951, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:59,742 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1261385, 設定值 = 8
+
+DateTime:  2024-11-07 08:14:59,742 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1261385, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 08:15:00,058 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:15:00,367 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:15:00,676 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 08:15:00,991 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:15:01,301 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:15:01,614 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:15:01,927 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:15:02,237 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:15:02,552 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:15:02,863 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:15:03,175 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 08:15:03,488 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:15:03,800 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:15:04,113 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 08:15:04,425 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:15:04,741 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:15:05,054 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:15:05,366 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:15:05,677 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 08:15:05,988 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:15:06,301 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:15:06,613 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:15:06,613 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 08:15:06,925 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 08:15:06,970 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 08:15:07,470 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:15:55,831 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 08:15:55,837 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 08:15:56,341 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 08:15:57,346 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:15:58,847 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 08:16:00,350 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 08:16:01,851 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 08:16:02,352 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 08:16:03,354 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 08:16:04,856 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 08:16:05,673 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 08:16:05,673 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 08:16:05,973 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:16:06,289 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:16:06,599 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 08:16:06,914 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:16:07,225 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:16:07,536 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:16:07,851 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:16:07,852 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 08:16:08,163 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:08,475 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:08,787 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:09,097 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:09,413 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:09,726 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:10,039 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:10,350 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:10,664 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:10,974 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:11,289 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:11,600 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:11,913 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:12,221 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:12,536 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 08:16:12,536 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 08:16:12,849 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3123296, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:13,159 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.622598, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:13,473 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9364299, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:13,786 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2498314, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:14,096 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5598266, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:14,413 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8760555, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:14,725 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1885358, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:15,039 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.5022991, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:15,350 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8133716, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:15,662 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1257697, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:15,973 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.436542, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:16,286 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7495613, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:16,600 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0635741, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:16,913 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3762228, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:17,223 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6861965, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:17,538 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.0011055, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:17,848 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3117748, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:18,161 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6246862, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:18,476 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9391411, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:18,788 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2514693, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:19,098 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5614583, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:19,410 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8730163, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:19,727 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1903567, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:20,037 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.5005633, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:20,351 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8149993, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:20,665 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1281214, 設定值 = 8
+
+DateTime:  2024-11-07 08:16:20,665 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1281214, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 08:16:20,975 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:16:21,284 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:16:21,599 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 08:16:21,911 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:16:22,225 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:16:22,538 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:16:22,849 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:16:23,163 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:16:23,474 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:16:23,784 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:16:24,099 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 08:16:24,413 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:16:24,723 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:16:25,037 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 08:16:25,348 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:16:25,660 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:16:25,975 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:16:26,286 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:16:26,600 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 08:16:26,913 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:16:27,224 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:16:27,536 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:16:27,536 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 08:16:27,850 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 08:16:27,884 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 08:16:28,385 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:17:37,062 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 08:17:37,069 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 08:17:37,572 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 08:17:38,576 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:17:39,578 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 08:17:41,081 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 08:17:42,082 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 08:17:42,583 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 08:17:43,584 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 08:17:45,086 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 08:17:45,904 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 08:17:45,904 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 08:17:46,206 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:17:46,520 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:17:46,831 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 08:17:47,143 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:17:47,459 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:17:47,771 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:17:48,083 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:17:48,083 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 08:17:48,396 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:48,708 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:49,024 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:49,334 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:49,646 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:49,961 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:50,273 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:50,584 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:50,897 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:51,211 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:51,524 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:51,836 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:52,145 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:52,458 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:52,772 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 08:17:52,772 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 08:17:53,086 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3139156, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:53,395 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.6233665, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:53,709 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9371989, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:54,021 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.24953, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:54,335 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5630688, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:54,647 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8751287, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:54,959 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1874732, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:55,269 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.4974795, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:55,582 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8100706, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:55,895 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1234478, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:56,208 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.436537, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:56,521 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7491477, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:56,834 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0622493, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:57,143 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.371632, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:57,460 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.688527, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:57,768 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.9966455, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:58,086 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3143441, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:58,397 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6251151, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:58,706 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9339293, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:59,024 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2518298, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:59,336 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5640549, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:59,648 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8766482, 設定值 = 8
+
+DateTime:  2024-11-07 08:17:59,961 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.189129, 設定值 = 8
+
+DateTime:  2024-11-07 08:18:00,273 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.5016001, 設定值 = 8
+
+DateTime:  2024-11-07 08:18:00,586 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8143045, 設定值 = 8
+
+DateTime:  2024-11-07 08:18:00,896 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1241915, 設定值 = 8
+
+DateTime:  2024-11-07 08:18:00,896 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1241915, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 08:18:01,209 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 13
+
+DateTime:  2024-11-07 08:18:01,523 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 13
+
+DateTime:  2024-11-07 08:18:01,835 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 08:18:02,148 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:18:02,460 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:18:02,772 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:18:03,082 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:18:03,396 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:18:03,707 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:18:04,020 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:18:04,332 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 08:18:04,645 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:18:04,959 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:18:05,270 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 08:18:05,582 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:18:05,895 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:18:06,211 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:18:06,523 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:18:06,833 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 08:18:07,145 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:18:07,457 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:18:07,769 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:18:07,769 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 08:18:08,082 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 08:18:08,119 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 08:18:08,620 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:22:09,821 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 08:22:09,827 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 08:22:10,331 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 08:22:11,835 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:22:12,836 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 08:22:14,340 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 08:22:15,841 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 08:22:16,342 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 08:22:17,343 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 08:22:18,845 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 08:22:19,659 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 08:22:19,659 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 08:22:19,960 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:22:20,271 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:22:20,585 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 08:22:20,895 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:22:21,209 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:22:21,521 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:22:21,832 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:22:21,833 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 08:22:22,146 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:22,459 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:22,772 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:23,087 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:23,398 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:23,708 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:24,023 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:24,333 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:24,647 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:24,959 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:25,271 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:25,584 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:25,897 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:26,209 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:26,522 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 08:22:26,522 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 08:22:26,836 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.314374, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:27,146 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.6244153, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:27,457 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9347551, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:27,771 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2487836, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:28,084 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5621751, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:28,397 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8756102, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:28,711 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1879336, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:29,023 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.5010701, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:29,335 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8134939, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:29,645 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1226628, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:29,961 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.438679, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:30,271 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7492478, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:30,583 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0612447, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:30,897 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3752938, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:31,211 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6895041, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:31,521 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.9990163, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:31,833 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3108353, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:32,148 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6261456, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:32,460 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9377595, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:32,772 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2497891, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:33,084 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5622344, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:33,397 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8756161, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:33,711 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1888789, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:34,023 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.5012256, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:34,334 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8124222, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:34,648 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1265145, 設定值 = 8
+
+DateTime:  2024-11-07 08:22:34,648 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1265145, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 08:22:34,959 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 壓力 現在值 = 13
+
+DateTime:  2024-11-07 08:22:35,272 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 08:22:35,583 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 08:22:35,898 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:22:36,209 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:22:36,523 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 08:22:36,834 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:22:37,147 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:22:37,459 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:22:37,770 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:22:38,084 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:22:38,400 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:22:38,710 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:22:39,022 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 08:22:39,333 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:22:39,646 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:22:39,960 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 08:22:40,274 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 08:22:40,585 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:22:40,897 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:22:41,208 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:22:41,523 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 08:22:41,832 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:22:42,146 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:22:42,461 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:22:42,461 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 08:22:42,771 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 08:22:42,877 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 08:22:43,378 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:24:31,845 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 08:24:31,851 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 08:24:32,354 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 08:24:33,359 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:24:34,360 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 08:24:35,864 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 08:24:37,366 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 08:24:37,867 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 08:24:38,868 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 08:24:40,369 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 08:24:41,187 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 08:24:41,187 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 08:24:41,489 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:24:41,802 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:24:42,117 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -4
+
+DateTime:  2024-11-07 08:24:42,428 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -5
+
+DateTime:  2024-11-07 08:24:42,739 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -5
+
+DateTime:  2024-11-07 08:24:43,052 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -6
+
+DateTime:  2024-11-07 08:24:43,364 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -7
+
+DateTime:  2024-11-07 08:24:43,679 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -7
+
+DateTime:  2024-11-07 08:24:43,988 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -6
+
+DateTime:  2024-11-07 08:24:44,303 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -5
+
+DateTime:  2024-11-07 08:24:44,614 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -5
+
+DateTime:  2024-11-07 08:24:44,928 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -4
+
+DateTime:  2024-11-07 08:24:45,242 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -4
+
+DateTime:  2024-11-07 08:24:45,551 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:24:45,862 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 08:24:46,179 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 08:24:46,492 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:24:46,801 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:24:47,117 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:24:47,425 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:24:47,425 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 08:24:47,740 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:48,050 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:48,367 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:48,675 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:48,989 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:49,300 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:49,616 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:49,927 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:50,240 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:50,553 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:50,865 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:51,177 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:51,491 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:51,802 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:52,114 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 08:24:52,114 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 08:24:52,428 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3138449, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:52,738 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.6239455, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:53,050 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9358906, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:53,364 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2497606, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:53,678 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5633807, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:53,991 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8767624, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:54,300 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.185507, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:54,613 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.4993091, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:54,925 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8112994, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:55,241 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1272024, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:55,553 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.4386555, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:55,863 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7483886, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:56,178 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0633887, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:56,492 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3773894, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:56,802 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6879341, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:57,112 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.9981882, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:57,429 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3149369, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:57,741 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6265583, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:58,053 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9384983, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:58,367 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2531344, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:58,680 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5661386, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:58,991 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8764446, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:59,300 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1857327, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:59,616 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.5019783, 設定值 = 8
+
+DateTime:  2024-11-07 08:24:59,927 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8133278, 設定值 = 8
+
+DateTime:  2024-11-07 08:25:00,240 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1262613, 設定值 = 8
+
+DateTime:  2024-11-07 08:25:00,240 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1262613, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 08:25:00,553 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 13
+
+DateTime:  2024-11-07 08:25:00,863 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 08:25:01,178 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 08:25:01,491 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:25:01,803 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:25:02,118 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:25:02,428 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:25:02,742 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:25:03,053 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:25:03,368 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 08:25:03,678 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 08:25:03,990 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:25:04,304 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:25:04,616 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 08:25:04,927 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:25:05,242 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:25:05,552 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:25:05,862 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 08:25:06,179 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 08:25:06,490 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:25:06,803 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:25:07,117 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:25:07,117 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 08:25:07,428 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 08:25:07,902 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 08:25:08,404 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:48:50,584 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 08:48:50,590 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 08:48:51,093 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 08:48:51,597 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 08:48:53,098 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 08:48:54,600 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 08:48:56,103 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 08:48:56,603 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 08:48:57,605 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 08:48:59,107 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 08:48:59,918 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  label_Press, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 08:48:59,918 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 08:49:00,226 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:49:00,538 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 08:49:00,847 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 08:49:01,162 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:49:01,476 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 08:49:01,786 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:49:02,100 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:49:02,100 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 08:49:02,411 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:02,725 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:03,036 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:03,351 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:03,662 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:03,974 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:04,284 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:04,599 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:04,912 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:05,222 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:05,535 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:05,849 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:06,164 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:06,473 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:06,788 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 08:49:06,788 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 08:49:07,099 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3111583, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:07,411 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.6236728, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:07,724 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9361473, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:08,038 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2502372, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:08,348 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.560816, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:08,659 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8713868, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:08,977 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1893279, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:09,286 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.4980337, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:09,600 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.812848, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:09,910 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1224692, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:10,224 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.436465, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:10,537 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7492339, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:10,850 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0628455, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:11,159 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3712199, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:11,478 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6902594, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:11,787 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.9989954, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:12,102 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3140117, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:12,411 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6235961, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:12,724 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.936196, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:13,038 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2500635, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:13,351 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5639236, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:13,665 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8771296, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:13,973 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1857347, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:14,286 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.4988677, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:14,599 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8113557, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:14,912 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1246471, 設定值 = 8
+
+DateTime:  2024-11-07 08:49:14,913 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1256296, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 08:49:15,223 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:49:15,536 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:49:15,847 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:49:16,161 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:49:16,475 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:49:16,789 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:49:17,100 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:49:17,412 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 08:49:17,725 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:49:18,035 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 08:49:18,350 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:49:18,661 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:49:18,977 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:49:19,288 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 08:49:19,601 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:49:19,909 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 08:49:20,224 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 08:49:20,536 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 08:49:20,850 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 08:49:21,161 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 08:49:21,472 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 08:49:21,787 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 08:49:22,101 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:49:22,412 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 08:49:22,721 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 08:49:23,039 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 08:49:23,352 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 08:49:23,662 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 08:49:23,662 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 08:49:23,971 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 08:49:24,137 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 08:49:24,638 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 09:00:00,978 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 09:00:00,984 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 09:00:01,488 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 09:00:03,495 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 09:00:04,496 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 09:00:05,998 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 09:00:06,999 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 09:00:07,500 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 09:00:08,001 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 09:00:09,503 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 09:00:10,333 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 09:00:10,333 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 09:00:10,630 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 09:00:10,944 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -4
+
+DateTime:  2024-11-07 09:00:11,254 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -4
+
+DateTime:  2024-11-07 09:00:11,570 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 09:00:11,880 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 09:00:12,193 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 09:00:12,508 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 09:00:12,822 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 09:00:13,129 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 09:00:13,446 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:00:13,446 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 09:00:13,758 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:14,073 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:14,382 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:14,690 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:15,008 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:15,320 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:15,631 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:15,941 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:16,256 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:16,571 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:16,881 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:17,196 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:17,504 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:17,821 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:18,135 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 09:00:18,135 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 09:00:18,446 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3114637, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:18,755 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.6202714, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:19,070 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9350707, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:19,383 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2488743, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:19,695 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5602467, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:20,009 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8746041, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:20,316 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1812531, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:20,631 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.4964877, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:20,948 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8129806, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:21,254 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1194079, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:21,571 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.4366337, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:21,883 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7484091, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:22,193 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0586445, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:22,505 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3707528, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:22,819 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6843481, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:23,131 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.996702, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:23,447 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3122299, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:23,757 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6226161, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:24,068 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9332238, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:24,382 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2475545, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:24,696 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5614214, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:25,008 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8733907, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:25,322 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1878631, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:25,635 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.4999717, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:25,944 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8094286, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:26,258 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1237561, 設定值 = 8
+
+DateTime:  2024-11-07 09:00:26,258 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1237561, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 09:00:26,568 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 09:00:26,880 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 09:00:27,193 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 09:00:27,507 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 09:00:27,819 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 09:00:28,131 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 09:00:28,448 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 09:00:28,759 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 09:00:29,069 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 09:00:29,381 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 09:00:29,691 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 09:00:30,010 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 09:00:30,320 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 09:00:30,633 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 09:00:30,942 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 09:00:31,257 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 09:00:31,567 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:00:31,879 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:00:32,198 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 09:00:32,198 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 09:00:32,503 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 09:00:32,534 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 09:00:33,035 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 09:09:38,289 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 09:09:38,295 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 09:09:38,800 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 09:09:40,305 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 09:09:41,307 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 09:09:42,809 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 09:09:44,311 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 09:09:44,812 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 09:09:45,813 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 09:09:47,316 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 09:09:48,137 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  label_Press, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 09:09:48,137 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 09:09:48,444 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 09:09:48,758 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 09:09:49,069 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -4
+
+DateTime:  2024-11-07 09:09:49,382 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 09:09:49,695 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 09:09:50,008 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 09:09:50,321 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 09:09:50,634 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 09:09:50,941 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 09:09:51,253 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 09:09:51,569 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:09:51,569 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 09:09:51,880 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:52,192 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:52,507 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:52,817 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:53,129 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:53,446 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:53,755 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:54,070 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:54,383 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:54,694 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:55,004 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:55,318 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:55,633 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:55,947 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 09:09:55,947 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 09:09:56,257 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3097624, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:56,568 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.620675, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:56,878 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9311648, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:57,195 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2485456, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:57,508 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5615313, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:57,819 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8722358, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:58,130 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.183582, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:58,446 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.4986988, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:58,754 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.806727, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:59,070 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1227443, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:59,384 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.4371232, 設定值 = 8
+
+DateTime:  2024-11-07 09:09:59,695 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.747887, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:00,005 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0585466, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:00,323 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3763802, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:00,634 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6866962, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:00,944 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.9967102, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:01,257 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3097381, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:01,568 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6208271, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:01,881 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9343703, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:02,196 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.249547, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:02,508 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5615269, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:02,819 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8721867, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:03,134 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1875639, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:03,446 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.4991189, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:03,757 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8104405, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:04,070 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1229831, 設定值 = 8
+
+DateTime:  2024-11-07 09:10:04,070 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1229831, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 09:10:04,380 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 09:10:04,697 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 09:10:05,004 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 09:10:05,319 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 09:10:05,634 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 09:10:05,948 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 09:10:06,258 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 09:10:06,568 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 09:10:06,881 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 09:10:07,192 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 09:10:07,504 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:10:07,824 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 09:10:07,824 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 09:10:08,128 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 09:10:08,345 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 09:10:08,846 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 09:21:45,219 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 09:21:45,227 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 09:21:45,731 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 09:21:46,236 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 09:21:47,738 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 09:21:49,241 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 09:21:50,743 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 09:21:51,243 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 09:21:52,245 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 09:21:53,748 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 09:21:54,560 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  label_Press, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 09:21:54,560 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 09:21:54,866 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 09:21:55,175 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 09:21:55,488 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 09:21:55,804 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 09:21:56,117 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 09:21:56,441 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 09:21:56,742 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:21:56,742 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 09:21:57,053 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 09:21:57,365 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 09:21:57,677 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 09:21:57,987 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 09:21:58,305 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:21:58,615 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:21:58,928 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 09:21:59,244 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 09:21:59,551 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 09:21:59,865 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 09:22:00,180 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 09:22:00,492 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 09:22:00,803 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 09:22:01,115 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 09:22:01,430 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 09:22:01,431 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 09:22:01,740 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3097826, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:02,054 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.6230689, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:02,364 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9334407, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:02,679 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2480548, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:02,991 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.56034, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:03,304 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8737311, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:03,618 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1870367, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:03,927 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.4960787, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:04,240 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.809438, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:04,550 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1191107, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:04,862 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.4313027, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:05,180 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7489448, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:05,493 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0626349, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:05,805 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3740791, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:06,113 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6818564, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:06,431 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.9998793, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:06,741 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.310432, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:07,051 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6202843, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:07,362 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9315932, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:07,681 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.2504662, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:07,991 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.5602472, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:08,303 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8722415, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:08,614 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1832052, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:08,928 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.4977855, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:09,237 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8062426, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:09,556 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.125503, 設定值 = 8
+
+DateTime:  2024-11-07 09:22:09,556 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.125503, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 09:22:09,865 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 09:22:10,178 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 09:22:10,490 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 09:22:10,800 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 09:22:11,112 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 09:22:11,426 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 09:22:11,738 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 09:22:12,056 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 09:22:12,365 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 09:22:12,676 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 09:22:12,987 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 09:22:13,305 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 09:22:13,612 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 09:22:13,926 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 09:22:14,243 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 09:22:14,553 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 09:22:14,869 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 09:22:15,179 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 09:22:15,492 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 09:22:15,804 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:22:16,116 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:22:16,430 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 09:22:16,430 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 09:22:16,738 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 09:22:16,779 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 09:22:17,280 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 09:23:17,584 
+Thread:    1 
+Level:     INFO 
+ClassName: MyMachine.Form1 
+Describe:  Application open!
+
+DateTime:  2024-11-07 09:23:17,593 
+Thread:    1 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Test no log4net.config
+
+DateTime:  2024-11-07 09:23:18,097 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Alarm Thread Start!
+
+DateTime:  2024-11-07 09:23:19,103 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data
+
+DateTime:  2024-11-07 09:23:19,603 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC Auto Mode On
+
+DateTime:  2024-11-07 09:23:20,604 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Position have production.
+
+DateTime:  2024-11-07 09:23:22,108 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PLC send Scan Request.
+
+DateTime:  2024-11-07 09:23:22,608 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Read Barcode
+
+DateTime:  2024-11-07 09:23:23,610 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Scan Finished
+
+DateTime:  2024-11-07 09:23:25,113 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Machine Status is OK
+
+DateTime:  2024-11-07 09:23:25,938 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程開始, PressFlowStart 現在值 = True
+
+DateTime:  2024-11-07 09:23:25,938 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  PressFlowStart 現在值 = True, 壓合流程開始.
+
+DateTime:  2024-11-07 09:23:26,240 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -3
+
+DateTime:  2024-11-07 09:23:26,550 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 09:23:26,866 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -2
+
+DateTime:  2024-11-07 09:23:27,179 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 09:23:27,489 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = -1
+
+DateTime:  2024-11-07 09:23:27,814 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 0
+
+DateTime:  2024-11-07 09:23:28,112 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力值非0, 總壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:23:28,116 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  總壓力 現在值 = 1, 壓力值非0.
+
+DateTime:  2024-11-07 09:23:28,428 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:28,739 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:29,052 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:29,363 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:29,677 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:29,992 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:30,302 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:30,616 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:30,929 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:31,241 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:31,553 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:31,866 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:32,178 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:32,490 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:32,800 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:33,115 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:33,428 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:33,741 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:34,051 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:34,365 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:34,677 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+
+DateTime:  2024-11-07 09:23:34,677 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力現在值 = 10, 設定值 = 10, 壓力到達
+
+DateTime:  2024-11-07 09:23:34,991 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.3138203, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:35,301 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.6240921, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:35,617 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 0.9399867, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:35,928 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.2503788, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:36,239 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.5617128, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:36,553 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 1.8756281, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:36,864 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.1869623, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:37,176 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.4988381, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:37,490 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 2.8130225, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:37,803 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.1258827, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:38,112 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.435029, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:38,430 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 3.7527165, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:38,742 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.0653066, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:39,052 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.3752101, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:39,365 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.6876205, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:39,677 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 4.9997065, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:39,990 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.3123687, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:40,302 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.6247201, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:40,616 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 5.9387218, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:40,927 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.249508, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:41,242 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.564823, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:41,552 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 6.8750655, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:41,866 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.1883794, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:42,177 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.500193, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:42,492 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 7.8145113, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:42,804 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待保壓時間到達, 保壓時間 現在值 = 8.1267918, 設定值 = 8
+
+DateTime:  2024-11-07 09:23:42,804 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  保壓時間 現在值 = 8.1267918, 設定值 = 8, 保壓時間到達.
+
+DateTime:  2024-11-07 09:23:43,116 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 09:23:43,426 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 09:23:43,741 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 12
+
+DateTime:  2024-11-07 09:23:44,052 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 09:23:44,363 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 11
+
+DateTime:  2024-11-07 09:23:44,676 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 09:23:44,991 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 10
+
+DateTime:  2024-11-07 09:23:45,304 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 9
+
+DateTime:  2024-11-07 09:23:45,615 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 09:23:45,930 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 8
+
+DateTime:  2024-11-07 09:23:46,242 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 7
+
+DateTime:  2024-11-07 09:23:46,554 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 09:23:46,868 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 6
+
+DateTime:  2024-11-07 09:23:47,179 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 09:23:47,488 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 5
+
+DateTime:  2024-11-07 09:23:47,803 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 4
+
+DateTime:  2024-11-07 09:23:48,117 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 09:23:48,427 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 3
+
+DateTime:  2024-11-07 09:23:48,741 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 2
+
+DateTime:  2024-11-07 09:23:49,051 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:23:49,366 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 1
+
+DateTime:  2024-11-07 09:23:49,677 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  等待壓力釋放(歸零), 壓力 現在值 = 0
+
+DateTime:  2024-11-07 09:23:49,678 
+Thread:    5 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓力 現在值 = 0, 壓力值已歸零
+
+DateTime:  2024-11-07 09:23:49,987 
+Thread:    8 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  壓合流程完成.
+
+DateTime:  2024-11-07 09:23:50,145 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Press Flow is Finished.
+
+DateTime:  2024-11-07 09:23:50,646 
+Thread:    Main 
+Level:     DEBUG 
+ClassName: MyMachine.Form1 
+Describe:  Main Flow Start and Initial all Data

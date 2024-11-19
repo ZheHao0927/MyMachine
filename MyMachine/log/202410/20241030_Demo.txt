@@ -1,0 +1,918 @@
+﻿
+ 
+Datetime：2024-10-30 07:52:47,870 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  INFO  
+ClassName：MyMachine.Form1 property: [(null)] - 
+Description：Application open!
+ 
+
+ 
+Datetime：2024-10-30 07:52:48,419 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 property: [(null)] - 
+Description：Alarm Thread Start!
+ 
+
+ 
+Datetime：2024-10-30 07:54:14,057 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  INFO  
+ClassName：MyMachine.Form1 
+Description：Application open!
+ 
+
+ 
+Datetime：2024-10-30 07:54:14,592 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Alarm Thread Start!
+ 
+
+ 
+Datetime：2024-10-30 08:01:44,497 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  INFO  
+ClassName：MyMachine.Form1 
+Description：Application open!
+ 
+
+ 
+Datetime：2024-10-30 08:01:45,025 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Alarm Thread Start!
+ 
+
+ 
+Datetime：2024-10-30 08:01:48,037 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Main Flow Start and Initial all Data
+ 
+
+ 
+Datetime：2024-10-30 08:01:49,541 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：PLC Auto Mode On
+ 
+
+ 
+Datetime：2024-10-30 08:01:51,047 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Scan Position have production.
+ 
+
+ 
+Datetime：2024-10-30 08:01:52,552 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：PLC send Scan Request.
+ 
+
+ 
+Datetime：2024-10-30 08:01:53,054 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Read Barcode
+ 
+
+ 
+Datetime：2024-10-30 08:01:54,057 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Scan Finished
+ 
+
+ 
+Datetime：2024-10-30 08:01:55,562 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Machine Status is OK
+ 
+
+ 
+Datetime：2024-10-30 08:01:56,389 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：壓合流程開始, PressFlowStart 現在值 = True
+ 
+
+ 
+Datetime：2024-10-30 08:01:56,389 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：PressFlowStart 現在值 = True, 壓合流程開始.
+ 
+
+ 
+Datetime：2024-10-30 08:01:56,692 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力值非0, 總壓力 現在值 = -3
+ 
+
+ 
+Datetime：2024-10-30 08:01:57,002 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力值非0, 總壓力 現在值 = -2
+ 
+
+ 
+Datetime：2024-10-30 08:01:57,313 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力值非0, 總壓力 現在值 = -2
+ 
+
+ 
+Datetime：2024-10-30 08:01:57,626 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力值非0, 總壓力 現在值 = -1
+ 
+
+ 
+Datetime：2024-10-30 08:01:57,943 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力值非0, 總壓力 現在值 = 0
+ 
+
+ 
+Datetime：2024-10-30 08:01:57,943 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：總壓力 現在值 = 0, 壓力值非0.
+ 
+
+ 
+Datetime：2024-10-30 08:01:58,257 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 0, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:01:58,562 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:01:58,877 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 1, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:01:59,189 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 2, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:01:59,500 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:01:59,811 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 3, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:00,125 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 4, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:00,441 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:00,750 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 5, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:01,062 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:01,376 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 6, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:01,688 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 7, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:02,002 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:02,313 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 8, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:02,626 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 9, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:02,940 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力到達, 壓力現在值 = 10, 設定值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:02,940 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：壓力現在值 = 10, 設定值 = 10, 壓力到達
+ 
+
+ 
+Datetime：2024-10-30 08:02:03,256 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 0.3160063, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:03,563 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 0.6224388, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:03,877 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 0.9360944, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:04,188 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 1.2477517, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:04,499 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 1.5584424, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:04,813 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 1.8721311, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:05,126 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 2.185156, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:05,441 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 2.5009262, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:05,750 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 2.8097353, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:06,063 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 3.1224484, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:06,375 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 3.4344409, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:06,686 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 3.7459247, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:07,001 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 4.0607506, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:07,311 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 4.3707195, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:07,626 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 4.6854441, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:07,942 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 5.0014192, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:08,251 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 5.3104151, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:08,564 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 5.6240072, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:08,875 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 5.9347746, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:09,187 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 6.2466586, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:09,501 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 6.5608522, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:09,815 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 6.8743751, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:10,124 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 7.1831505, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:10,441 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 7.5006463, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:10,751 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 7.8104967, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:11,064 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待保壓時間到達, 保壓時間 現在值 = 8.1231698, 設定值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:11,064 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：保壓時間 現在值 = 8.1231698, 設定值 = 8, 保壓時間到達.
+ 
+
+ 
+Datetime：2024-10-30 08:02:11,381 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 14
+ 
+
+ 
+Datetime：2024-10-30 08:02:11,686 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 13
+ 
+
+ 
+Datetime：2024-10-30 08:02:12,001 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 12
+ 
+
+ 
+Datetime：2024-10-30 08:02:12,314 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 12
+ 
+
+ 
+Datetime：2024-10-30 08:02:12,626 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 11
+ 
+
+ 
+Datetime：2024-10-30 08:02:12,944 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:13,250 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 10
+ 
+
+ 
+Datetime：2024-10-30 08:02:13,563 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 9
+ 
+
+ 
+Datetime：2024-10-30 08:02:13,874 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 9
+ 
+
+ 
+Datetime：2024-10-30 08:02:14,187 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 8
+ 
+
+ 
+Datetime：2024-10-30 08:02:14,501 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 7
+ 
+
+ 
+Datetime：2024-10-30 08:02:14,815 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 7
+ 
+
+ 
+Datetime：2024-10-30 08:02:15,126 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 6
+ 
+
+ 
+Datetime：2024-10-30 08:02:15,443 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 5
+ 
+
+ 
+Datetime：2024-10-30 08:02:15,752 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 5
+ 
+
+ 
+Datetime：2024-10-30 08:02:16,062 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 4
+ 
+
+ 
+Datetime：2024-10-30 08:02:16,377 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 4
+ 
+
+ 
+Datetime：2024-10-30 08:02:16,689 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 3
+ 
+
+ 
+Datetime：2024-10-30 08:02:17,001 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 2
+ 
+
+ 
+Datetime：2024-10-30 08:02:17,312 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 2
+ 
+
+ 
+Datetime：2024-10-30 08:02:17,626 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 1
+ 
+
+ 
+Datetime：2024-10-30 08:02:17,943 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：等待壓力釋放(歸零), 壓力 現在值 = 0
+ 
+
+ 
+Datetime：2024-10-30 08:02:17,944 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：壓力 現在值 = 0, 壓力值已歸零
+ 
+
+ 
+Datetime：2024-10-30 08:02:18,253 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：壓合流程完成.
+ 
+
+ 
+Datetime：2024-10-30 08:02:18,613 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Press Flow is Finished.
+ 
+
+ 
+Datetime：2024-10-30 08:02:19,116 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Main Flow Start and Initial all Data
+ 
+
+ 
+Datetime：2024-10-30 08:50:15,247 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  INFO  
+ClassName：MyMachine.Form1 
+Description：Application open!
+ 
+
+ 
+Datetime：2024-10-30 08:50:15,778 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Alarm Thread Start!
+ 
+
+ 
+Datetime：2024-10-30 08:50:45,828 
+HostName:HarryWu 
+ThreadID:[1] 
+LogLevel：  INFO  
+ClassName：MyMachine.Form1 
+Description：Application open!
+ 
+
+ 
+Datetime：2024-10-30 08:50:46,371 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Alarm Thread Start!
+ 
+
+ 
+Datetime：2024-10-30 08:50:51,460 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Main Flow Start and Initial all Data
+ 
+
+ 
+Datetime：2024-10-30 08:50:52,464 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：PLC Auto Mode On
+ 
+
+ 
+Datetime：2024-10-30 08:50:53,968 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Scan Position have production.
+ 
+
+ 
+Datetime：2024-10-30 08:50:55,472 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：PLC send Scan Request.
+ 
+
+ 
+Datetime：2024-10-30 08:50:55,974 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Read Barcode
+ 
+
+ 
+Datetime：2024-10-30 08:50:56,978 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Scan Finished
+ 
+
+ 
+Datetime：2024-10-30 08:50:58,482 
+HostName:HarryWu 
+ThreadID:[Main] 
+LogLevel：  DEBUG 
+ClassName：MyMachine.Form1 
+Description：Machine Status is OK
+ 
